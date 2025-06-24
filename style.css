@@ -3,9 +3,30 @@ body {
     text-align: center;
 }
 
-#oppenent {
+#opponent-choice {
     width: 240px;
     height: 240px;
     background-color: aqua;
     margin-top: 10px;
+}
+
+#your-choice {
+    width: 240px;
+    height: 240px;
+    background-color: yellow;
+    margin-top: 10px;
+}
+
+#choices {
+    width: 240px;
+    height: 80px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: green;
+}
+
+#choices img {
+    width: 80px;
+    height: 80px;
+
 }
